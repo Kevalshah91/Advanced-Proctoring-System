@@ -1,0 +1,3 @@
+2025-01-20 19:39:29,232 - INFO - YOLOv5 model loaded successfully
+2025-01-20 19:39:29,270 - INFO - Cascade classifiers loaded successfully
+2025-01-20 19:39:29,376 - ERROR - Error initializing audio: Couldn't read first 4 bytes of audio data
