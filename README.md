@@ -1,5 +1,3 @@
-
-```md
 # 📌 Advanced Proctoring System  
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python)  
@@ -13,8 +11,15 @@ The **Advanced Proctoring System** is an AI-powered tool designed to **monitor o
 ✅ **Eye tracking & looking away detection** using MediaPipe  
 ✅ **Real-time alerts, logging, and violation tracking**  
 
-## 🔄 System Flowchart  
+## 🛠️ Features  
+✔️ **Real-time monitoring** with OpenCV  
+✔️ **YOLOv5-based phone detection** (optimized for multiple classes)  
+✔️ **Face & eye detection** with Haar cascades  
+✔️ **Live audio alerts for violations**  
+✔️ **Automated logging & violation reports**  
+✔️ **Cross-platform compatibility** (Windows, Linux, macOS)  
 
+## 🔄 System Flowchart  
 ```mermaid
 graph TD;
     A[Start] --> B[Initialize Systems]
@@ -36,21 +41,20 @@ graph TD;
     G --> B
     H --> B
     K --> L[End]
-
-## 🛠️ Features  
-✔️ **Real-time monitoring** with OpenCV  
-✔️ **YOLOv5-based phone detection** (optimized for multiple classes)  
-✔️ **Face & eye detection** with Haar cascades  
-✔️ **Live audio alerts for violations**  
-✔️ **Automated logging & violation reports**  
-✔️ **Cross-platform compatibility** (Windows, Linux, macOS)  
-
-
-
-
+```
 
 ## 📜 Logging & Reports  
 📝 **Violation logs** are stored in the `proctoring_logs/` folder.  
 
- 
 
+
+## 📌 Future Improvements  
+- 🔍 **Enhance accuracy** with deep learning-based face tracking  
+- 🎙️ **Voice detection** for verbal cheating detection  
+- 📊 **Web-based dashboard** for real-time analytics  
+
+## 🤝 Contributing  
+Contributions are welcome! Feel free to open issues or submit pull requests.  
+
+## 📜 License  
+This project is licensed under the **MIT License**.  
