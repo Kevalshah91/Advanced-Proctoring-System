@@ -52,9 +52,4 @@ graph TD;
 - 🔍 **Enhance accuracy** with deep learning-based face tracking  
 - 🎙️ **Voice detection** for verbal cheating detection  
 - 📊 **Web-based dashboard** for real-time analytics  
-
-## 🤝 Contributing  
-Contributions are welcome! Feel free to open issues or submit pull requests.  
-
-## 📜 License  
-This project is licensed under the **MIT License**.  
+ 
